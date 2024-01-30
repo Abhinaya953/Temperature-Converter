@@ -1,0 +1,26 @@
+*{
+    background: url(temm.jpg);
+}
+label{
+    font-size: 30px;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+    background-color: palevioletred;
+}
+input{
+    border-color: rgb(0, 0, 0);
+    box-shadow: 0px 5px 10px rgb(247, 113, 191);
+    font-size: 30px;
+}
+.button{
+    background-color: rgb(147, 5, 104);
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 300px;
+    border: 0 10px 10px;
+    padding: 6px;
+    border-radius: 10px;
+    border-color: black;
+}
